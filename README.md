@@ -4,25 +4,31 @@ We'll be using Python throughout the course. If you've got a good Python setup a
 
 After you have installed conda, close any open terminals you might have. Then open a new terminal and run the following command:
 
-# 1. Create an environment with dependencies specified in env.yml:
+# Step1 
+Create an environment with dependencies specified in env.yml:
     
     conda env create -f env.yml
 
-# 2. Activate the new environment:
+# Step2 
+Activate the new environment:
     
     conda activate comp541
     
-# 3. Inside the new environment, instatll IPython kernel so we can use this environment in jupyter notebook: 
+# Step3: 
+Inside the new environment, instatll IPython kernel so we can use this environment in jupyter notebook: 
     
     python -m ipykernel install --user --name comp541
 
 
-# 4. Homework 1 (only) is a Jupyter Notebook. With the above done you should be able to get underway by typing:
+# Step4: 
+Homework 1 (only) is a Jupyter Notebook. With the above done you should be able to get underway by typing:
 
     jupyter notebook exploring_word_vectors.ipynb
     
-# 5. To make sure we are using the right environment, go to the toolbar of exploring_word_vectors.ipynb, click on Kernel -> Change kernel, you should see and select comp541 in the drop-down menu.
+# Step5: 
+To make sure we are using the right environment, go to the toolbar of exploring_word_vectors.ipynb, click on Kernel -> Change kernel, you should see and select comp541 in the drop-down menu.
 
-# To deactivate an active environment, use
+# Step6:
+To deactivate an active environment, use
     
     conda deactivate
