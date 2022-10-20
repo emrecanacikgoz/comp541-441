@@ -7,6 +7,7 @@ The main goal of this practical is to make you understand the basics of neural n
 
 * `assignment1.ipynb` : Contains all of the coding questions, and will automatically generate and display results for you after completing each question.
 
+# Set-up
 We'll be using Python throughout the course. If you've got a good Python setup already, great! But make sure that it is at least Python version 3.5. If not, the easiest thing to do is to make sure you have at least 3GB free on your computer and then to head over to (https://www.anaconda.com/download/) and install the Python 3 version of Anaconda. It will work on any operating system.
 
 After you have installed conda, close any open terminals you might have. Then open a new terminal and run the following command:
@@ -43,4 +44,4 @@ To deactivate an active environment, use
 **What to submit**
 
 * Download a .ipynb version of your notebook, please name this as `username_assignment1.ipynb` such as `eacikgoz17_assignment1.ipynb`.
-* ZIP these two files together, name the zip file as `username_assignment1.zip`, such as `eacikgoz17_assignment1.zip` and submit it to Blackboard by the deadline.
+* ZIP all files together, name the zip file as `username_assignment1.zip`, such as `eacikgoz17_assignment1.zip` and submit it to Blackboard by the deadline.
