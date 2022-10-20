@@ -6,6 +6,7 @@ Welcome to comp541!
 The main goal of this practical is to make you understand the basics of neural network design and training, and you will also get familiar with Facebook’s Pytorch deep learning framework. In this practical you will use the [GloVe](https://nlp.stanford.edu/pubs/glove.pdf) and then utilize the word embeddings for sentiment classification using the [DAN](https://aclanthology.org/P15-1162.pdf) approach.
 
 * `assignment1.ipynb` : Contains all of the coding questions, and will automatically generate and display results for you after completing each question.
+* `env.yml` : Create your working environment.
 
 # Set-up
 We'll be using Python throughout the course. If you've got a good Python setup already, great! But make sure that it is at least Python version 3.5. If not, the easiest thing to do is to make sure you have at least 3GB free on your computer and then to head over to (https://www.anaconda.com/download/) and install the Python 3 version of Anaconda. It will work on any operating system.
