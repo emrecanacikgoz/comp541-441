@@ -1,5 +1,5 @@
 # Assignment1: MLPs and Backpropagation
-**Due on November 26, 2022 (23:59:59)**
+**Due on November 4, 2022 (23:59:59)**
 
 Welcome to comp541!
 
@@ -43,5 +43,4 @@ To deactivate an active environment, use
 
 **What to submit**
 
-* Download a .ipynb version of your notebook, please name this as `username_assignment1.ipynb` such as `eacikgoz17_assignment1.ipynb`.
-* ZIP all files together, name the zip file as `username_assignment1.zip`, such as `eacikgoz17_assignment1.zip` and submit it to Blackboard by the deadline.
+* Download a .ipynb version of your notebook, please name this as `username_assignment1.ipynb` such as `eacikgoz17_assignment1.ipynb` and submit it to Blackboard by the deadline. You don't have to submit anything else.
