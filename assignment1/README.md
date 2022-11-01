@@ -32,7 +32,7 @@ Inside the new environment, instatll IPython kernel so we can use this environme
 ## Step4
 Homework 1 (only) is a Jupyter Notebook. With the above done you should be able to get underway by typing:
 
-    jupyter notebook exploring_word_vectors.ipynb
+    jupyter notebook assignment1.ipynb
     
 ## Step5
 To make sure we are using the right environment, go to the toolbar of exploring_word_vectors.ipynb, click on Kernel -> Change kernel, you should see and select comp541 in the drop-down menu.
